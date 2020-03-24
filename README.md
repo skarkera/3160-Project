@@ -1,6 +1,7 @@
 # 3160-Project
 ITCS 3160 Online (Spring 2020) Project for Class
-Grpup 22- Members: Sabda Karkera
+
+Group 22- Members: Sabda Karkera
 
 OUTLINE:
 Introduction
