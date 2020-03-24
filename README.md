@@ -1,5 +1,5 @@
 # 3160-Project
-ITCS 3160 Online (Spring 2020) Project for Class
+ITCS 3160 Online (Spring 2020) Project 
 
 Group 22- Members: Sabda Karkera
 
